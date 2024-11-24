@@ -1,0 +1,12 @@
+# Core dependencies
+Pillow>=10.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional for extended functionality
+matplotlib>=3.7.0  # For visualization if needed
+tqdm>=4.65.0      # For progress bars
+
+opencv-python>=4.7.0
+scikit-image>=0.20.0
+rich>=13.9.4
